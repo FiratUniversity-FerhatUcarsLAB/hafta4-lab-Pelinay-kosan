@@ -1,4 +1,7 @@
-import java.util.Scanner;
+PELİNAY KOŞAN
+250542002
+    
+    import java.util.Scanner;
 import java.text.DecimalFormat;
 
 public class hafta4 {
