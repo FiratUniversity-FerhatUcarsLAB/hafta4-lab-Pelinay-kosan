@@ -1,3 +1,6 @@
+PELİNAY KOŞAN
+250542002
+
 /*
  * Ad Soyad: [PELİNAY KOŞAN]
  * Ogrenci No: [250542002]
