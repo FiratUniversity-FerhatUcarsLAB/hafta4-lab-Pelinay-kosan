@@ -1,3 +1,6 @@
+PELİNAY KOŞAN
+250542002
+
 import java.util.Scanner;
 import java.text.DecimalFormat;
 import java.util.Locale;
